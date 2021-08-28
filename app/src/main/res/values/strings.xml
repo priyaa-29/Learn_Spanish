@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Spanish</string>
+    <string name="family">Family Members</string>
+    <string name="numbers">Numbers</string>
+    <string name="colors">Colors</string>
+    <string name="phrase">Phrases</string>
+</resources>
